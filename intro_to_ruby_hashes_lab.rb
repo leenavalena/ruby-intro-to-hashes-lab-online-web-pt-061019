@@ -16,7 +16,9 @@ def monopoly_with_second_tier {
   :railroads => {
     :pieces => 4,
     :names => {
-      :reading_railroad => 0 
+      :reading_railroad => 0,
+      :pennsylvania_railroad => 0,
+      :b_and_o 
     },
     :rent_in_dollars => {
       :one_piece_owned => 25,
