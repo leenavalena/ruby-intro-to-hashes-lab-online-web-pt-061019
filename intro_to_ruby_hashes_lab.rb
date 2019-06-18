@@ -21,13 +21,13 @@ def monopoly_with_second_tier {
 }
 end
 
-def monopoly_with_third_tier
+def monopoly_with_third_tier {
 	:railroads => {
     :pieces => 4,
     :names => {},
     :rent_in_dollars => 0 
   }
-
+}
 end
 
 def monopoly_with_fourth_tier
